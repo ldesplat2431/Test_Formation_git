@@ -1,1 +1,3 @@
 Voilà c'est modifié
+
+Modif LDE : 500ms
