@@ -1,3 +1,4 @@
 Voilà c'est modifié
 
-Modif LDE : 500ms
+Après réglement du conflit : 700ms
+
